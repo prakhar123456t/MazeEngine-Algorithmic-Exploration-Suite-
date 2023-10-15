@@ -50,17 +50,6 @@ To solve the maze i.e. to take the player to food, we can use different algorith
 *Breadth First Search (BFS)* is a vertex-based technique for finding the shortest path in the graph. It uses a Queue data structure that follows first in first out. 
 In BFS, one vertex is selected at a time when it is visited and marked then its adjacent are visited and stored in the queue.  
 
-## 3. A star Search (A*)
-
-<p align="center">
-<img src="./images/as-demo.gif" height="230px">
-</p>
-
-A* is an extension of Dijkstra's algorithm with some characteristics of breadth-first search (BFS).
-
-However, the A* algorithm introduces a **heuristic** into a regular graph-searching algorithm, essentially planning ahead at each step so a more optimal decision is made.
-
-Here the Heuristic function that we use is the *Manhattan distance* between cell and food.
 
 
 # Credits
@@ -71,8 +60,8 @@ Here the Heuristic function that we use is the *Manhattan distance* between cell
 
 # Project Info
 
-- Project: Maze
-- Author: Madhav Jha
-- GitHub repo: https://github.com/jhamadhav/maze
-- Site Link: https://jhamadhav.com/maze
+- Project: MazeEngine
+- Author:  Kartikay Mehrotra
+- GitHub repo: https://github.com/Kartikay-Mehrotra/MazeEngine
+- Site Link: https://kartikay-mehrotra.github.io/MazeEngine/
  
