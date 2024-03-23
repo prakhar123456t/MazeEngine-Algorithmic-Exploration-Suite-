@@ -61,7 +61,7 @@ In BFS, one vertex is selected at a time when it is visited and marked then its 
 # Project Info
 
 - Project: MazeEngine
-- Author:  Kartikay Mehrotra
-- GitHub repo: https://github.com/Kartikay-Mehrotra/MazeEngine
-- Site Link: https://kartikay-mehrotra.github.io/MazeEngine/
+- Author:  Prakhar Gupta
+- GitHub repo: https://github.com/prakhar123456t/MazeEngine-Algorithmic-Exploration-Suite-
+
  
